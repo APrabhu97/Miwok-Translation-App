@@ -5,6 +5,7 @@ import android.content.Context;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -21,6 +22,7 @@ import java.util.ArrayList;
 public class ColorsFragment extends Fragment {
     MediaPlayer mpl;
     AudioManager am;
+    ArrayList<Words> words = new ArrayList<Words>();
     AudioManager.OnAudioFocusChangeListener col = new AudioManager.OnAudioFocusChangeListener() {
         @Override
         public void onAudioFocusChange(int focusChange) {
@@ -80,7 +82,7 @@ public class ColorsFragment extends Fragment {
 
         // Create a list of words
 
-        ArrayList<Words> words = new ArrayList<Words>();
+
 
         words.add(new Words("red", "weṭeṭṭi", R.drawable.color_red, R.raw.color_red));
 
@@ -97,6 +99,15 @@ public class ColorsFragment extends Fragment {
         words.add(new Words("black", "kululli", R.drawable.color_black, R.raw.color_black));
 
         words.add(new Words("white", "kelelli", R.drawable.color_white, R.raw.color_white));
+
+
+
+        return rootView;
+    }
+
+    @Override
+    public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+        super.onActivityCreated(savedInstanceState);
         WordAdapter itemsAdapter = new WordAdapter(getActivity(), words);
         final ListView listView = (ListView) getActivity().findViewById(R.id.clist);
         listView.setAdapter(itemsAdapter);
@@ -118,7 +129,6 @@ public class ColorsFragment extends Fragment {
                 }
             }
         });
-        return rootView;
     }
 }
 
