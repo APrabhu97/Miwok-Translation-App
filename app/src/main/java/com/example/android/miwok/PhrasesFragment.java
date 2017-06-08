@@ -38,6 +38,15 @@ public class PhrasesFragment extends Fragment {
             }
         }
     };
+    public static PhrasesFragment newInstance(int page) {
+
+        Bundle args = new Bundle();
+        args.putInt("ARG",3);
+        PhrasesFragment fragment = new PhrasesFragment();
+        fragment.setArguments(args);
+        return fragment;
+    }
+
     private void releaseMediaPlayer(){
 
         // If the media player is not null, then it may be currently playing a sound.

@@ -31,23 +31,23 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Numbers"
-            android:parentActivityName=".MainActivity"
-            android:label="Numbers"
-            />
-        <activity android:name=".Family"
-            android:parentActivityName=".MainActivity"
-            android:label="Family"
-            />
-        <activity android:name=".Colours"
-            android:parentActivityName=".MainActivity"
-            android:label="Colours"
-            />
-        <activity android:name=".Phrases"
-            android:parentActivityName=".MainActivity"
-            android:label="@string/category_phrases"
-            >
-        </activity>
+        <!--<activity android:name=".Numbers"-->
+            <!--android:parentActivityName=".MainActivity"-->
+            <!--android:label="Numbers"-->
+            <!--/>-->
+        <!--<activity android:name=".Family"-->
+            <!--android:parentActivityName=".MainActivity"-->
+            <!--android:label="Family"-->
+            <!--/>-->
+        <!--<activity android:name=".Colours"-->
+            <!--android:parentActivityName=".MainActivity"-->
+            <!--android:label="Colours"-->
+            <!--/>-->
+        <!--<activity android:name=".Phrases"-->
+            <!--android:parentActivityName=".MainActivity"-->
+            <!--android:label="@string/category_phrases"-->
+            <!--&gt;-->
+        <!--</activity>-->
     </application>
 
 </manifest>
