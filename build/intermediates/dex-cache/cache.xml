@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="750b52d866705f8c3c96d5a6747b773d628f0bb8">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_981f2ad44582db4851317a4b1cfa3d8eafd0c158\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_04062b68a3e50108516cd073c4869a36d8816364\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_68dee3566831c5e899bc972a2cac1ad2b364b964\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_382a9f80778310d859774dc3d4e56d7f0c94cf1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f857660c914ce01b9e836863d266c55735ba104f">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_616cf72b64876d78f29877915eadaebfa7c3d84c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_edf57d75594a3e44dea4d4ec7fa53e0f19d3718b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_9992f285e080b88edeee45708ff8025a07798ef4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_e65a123e49e73386a89e269107a6e1e49279137c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_07d6b505c36f6732f717df69b4e1aa6aa259e12c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\mahe\Desktop\ud839_Miwok-Starter-code\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6c0a9d12defe9266ff2b851ca2925d1676b937bd\classes.dex" />
+    </item>
+
+</items>
