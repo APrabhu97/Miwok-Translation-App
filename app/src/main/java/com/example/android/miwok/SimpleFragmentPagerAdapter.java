@@ -39,10 +39,10 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
             return new NumbersFragment();
 
         else if (position == 1)
-            return new FamilyFragment();
+            return new ColorsFragment();
 
         else if(position == 2)
-            return new ColorsFragment();
+            return new FamilyFragment();
 
         else if(position == 3)
             return new PhrasesFragment();
